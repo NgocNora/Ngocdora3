@@ -1,0 +1,71 @@
+@charset "utf-8";
+body {
+    width: 744px;
+    margin: 0 auto;
+	
+	
+}
+.trai {
+    width: 628px;
+    height: 700px;
+    color: #FFFFFF;
+    background-color: #000000;
+    float: left;
+    font-family: tahoma;
+    font-size: small;
+}
+.trai p {
+    margin-left: 6px;
+}
+
+
+
+
+.trai p strong {
+    text-decoration: underline;
+    color: #F10004;
+}
+.trai p strong {
+    text-decoration: underline;
+}
+.trai p strong {
+    text-decoration: underline;
+}
+.trai h4 {
+    font-family: Arial;
+}
+.phai {
+    background-color: #F9070B;
+    width: 98px;
+    height: 700px;
+    float: right;
+    padding-right: 15px;
+ 
+}
+.trai .footer {
+    margin-top: 151px;
+    font-size: x-small;
+    color: #838383;
+    margin-left: 6px;
+}
+.trai img {
+    margin-left: 5px;
+
+}
+
+.trai .dong1 {
+    background-color: #000000;
+    height: 50px;
+}
+.trai .chuduoiWork {
+    margin-top: -1px;
+}
+.trai .footer #chudo {
+    margin-left: 204px;
+    margin-top: -12px;
+}
+
+.trai #Work {
+    margin-left: 7px;
+    margin-top: 17px;
+}
